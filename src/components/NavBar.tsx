@@ -28,7 +28,7 @@ const menuItems = [
 export function NavBar() {
     return (
         <nav className="h-14 w-full flex bg-black text-white fixed items-center px-8 z-50 space-x-6 justify-end">
-            <h1 className="mr-auto">Chau Nguyen</h1>
+            <a href="#hero" className="mr-auto">Chau Nguyen</a>
             {/* Large screen menu */}
             <div className="space-x-4 lg:block hidden">
                 {menuItems.map(item => 
