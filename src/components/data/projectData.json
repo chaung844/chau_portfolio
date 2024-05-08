@@ -2,19 +2,19 @@
     {
         "key": 1,
         "name": "CodeGenius",
-        "description": "project1description",
+        "description": "A web app that empowers developers by scanning submitted code for vulnerabilities and identifying potential security risks",
         "stack": "stack1"
     },
     {
         "key": 2,
         "name": "LibraBot",
-        "description": "project2description",
+        "description": "A smart bookshelf that simplifies your book searches and provides guidance for returning borrowed ones",
         "stack": "stack2"
     },
     {
         "key": 3,
         "name": "3D Map",
-        "description": "project3description",
+        "description": "An interactive map that enhances accessibility for non-English speaking students with language and room search features",
         "stack": "stack3"
     }
 ]

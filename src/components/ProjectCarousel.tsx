@@ -14,8 +14,8 @@ export function ProjectCarousel() {
         }
     }
     return (
-        <div className="lg:h-[500px] h-[300px] lg:w-[700px] w-11/12 bg-black self-center" onMouseEnter={() => setIsHover(true)} onMouseLeave={handleMouseLeave}>
-            <Carousel ref={ref} effect="fade" autoplay={isHover} autoplaySpeed={500} dots={false} className="text-center w-full lg:h-[500px] h-[300px] bg-blue-200">
+        <div className="lg:h-[350px] h-[300px] lg:w-[580px] w-11/12 bg-black self-center" onMouseEnter={() => setIsHover(true)} onMouseLeave={handleMouseLeave}>
+            <Carousel ref={ref} effect="fade" autoplay={isHover} autoplaySpeed={500} dots={false} className="text-center w-full lg:h-[350px] h-[300px] bg-blue-200">
                 <div>
                     <h1>Thumbnail</h1>
                 </div>
