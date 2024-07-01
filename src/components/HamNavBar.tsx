@@ -1,5 +1,5 @@
 import { MenuOutlined, LinkedinFilled, GithubFilled } from "@ant-design/icons";
-import { Button, Drawer, Divider } from "antd";
+import { Button, Drawer } from "antd";
 import { useState } from "react";
 
 

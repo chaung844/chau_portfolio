@@ -7,4 +7,9 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  // theme: {
+  //   colors: {
+  //     'greenTheme': '#dcdfb1',
+  //   },
+  // }
 }

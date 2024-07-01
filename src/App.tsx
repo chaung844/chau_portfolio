@@ -5,6 +5,7 @@ import { About } from "./components/About";
 import { Experience } from "./components/Experience";
 import { Projects } from "./components/Projects";
 import { Activities } from "./components/Activities";
+import { Gallery } from "./components/Gallery";
 import { PageFooter } from "./components/PageFooter";
 
 
@@ -20,6 +21,7 @@ function App() {
           <Experience />
           <Projects />
           <Activities />
+          <Gallery />
         </Content>
         <PageFooter />
     </Layout>
